@@ -65,6 +65,8 @@ HOST-SUFFIX,forter.com,Cryptocurrency
 HOST-SUFFIX,xcoinsystem.com,Cryptocurrency
 HOST-SUFFIX,bitget.com,Cryptocurrency
 HOST-SUFFIX,9ibp.com,Cryptocurrency
+HOST-SUFFIX,okx.com,Cryptocurrency
+
 
 # Defi
 HOST-SUFFIX,mdex.com,Cryptocurrency
@@ -88,6 +90,7 @@ HOST-SUFFIX,tronlink.org,Cryptocurrency
 HOST-SUFFIX,hbwalletapi.net,Cryptocurrency
 HOST-SUFFIX,quickwallet.io,Cryptocurrency
 HOST-SUFFIX,metamask.io,Cryptocurrency
+HOST-SUFFIX,mokexapp.io,Cryptocurrency
 
 # Miner
 HOST-SUFFIX,unmineable.com,Cryptocurrency
@@ -135,6 +138,7 @@ HOST-SUFFIX,galaxy.eco,Cryptocurrency
 # Swap
 HOST-SUFFIX,justswap.io,Cryptocurrency
 HOST-SUFFIX,just.network,Cryptocurrency
+HOST-SUFFIX,jup.ag,Cryptocurrency
 
 # News
 HOST-SUFFIX,bishijie.com,Cryptocurrency
