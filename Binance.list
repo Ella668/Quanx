@@ -1,0 +1,41 @@
+# CEFI
+HOST-SUFFIX,binance.cc,Cryptocurrency
+HOST-SUFFIX,binance.com,Cryptocurrency
+HOST-SUFFIX,binance.info,Cryptocurrency
+HOST-SUFFIX,binance.cloud,Cryptocurrency
+HOST-SUFFIX,bntrace.com,Cryptocurrency
+HOST-SUFFIX,binancefuture.com,Cryptocurrency
+HOST-SUFFIX,bnappzh.com,Cryptocurrency
+HOST-SUFFIX,bnbstatic.com,Cryptocurrency
+HOST-SUFFIX,binance.im,Cryptocurrency
+HOST-SUFFIX,binance.me,Cryptocurrency
+HOST-SUFFIX,binance.charity,Cryptocurrency
+HOST-SUFFIX,binance.co,Cryptocurrency
+HOST-SUFFIX,binance.net,Cryptocurrency
+HOST-SUFFIX,binance.org,Cryptocurrency
+HOST-SUFFIX,binance.us,Cryptocurrency
+HOST-SUFFIX,binance.vision,Cryptocurrency
+HOST-SUFFIX,binanceapi.com,Cryptocurrency
+HOST-SUFFIX,binancecnt.com,Cryptocurrency
+HOST-SUFFIX,binancezh.be,Cryptocurrency
+HOST-SUFFIX,binancezh.biz,Cryptocurrency
+HOST-SUFFIX,binancezh.cc,Cryptocurrency
+HOST-SUFFIX,binancezh.co,Cryptocurrency
+HOST-SUFFIX,binancezh.com,Cryptocurrency
+HOST-SUFFIX,binancezh.info,Cryptocurrency
+HOST-SUFFIX,binancezh.ink,Cryptocurrency
+HOST-SUFFIX,binancezh.kim,Cryptocurrency
+HOST-SUFFIX,binancezh.link,Cryptocurrency
+HOST-SUFFIX,binancezh.live,Cryptocurrency
+HOST-SUFFIX,binancezh.mobi,Cryptocurrency
+HOST-SUFFIX,binancezh.net,Cryptocurrency
+HOST-SUFFIX,binancezh.pro,Cryptocurrency
+HOST-SUFFIX,binancezh.sh,Cryptocurrency
+HOST-SUFFIX,binancezh.top,Cryptocurrency
+
+
+# Wallet
+HOST-SUFFIX,mokexapp.io,Cryptocurrency
+
+# Chain
+HOST-SUFFIX,binance.org,Cryptocurrency
