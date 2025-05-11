@@ -1,13 +1,13 @@
 # > Chart
-DOMAIN-SUFFIX,tradingview.com,HongKong
-DOMAIN-SUFFIX,app-measurement.com,HongKong
-DOMAIN-SUFFIX,walletconnect.com,HongKong
-DOMAIN-SUFFIX,gmgn.ai,HongKong
-DOMAIN-SUFFIX,axiom.trade,HongKong
-DOMAIN-SUFFIX,ave.ai,HongKong
-DOMAIN-SUFFIX,aicoin.com,HongKong
-DOMAIN-SUFFIX,dexsvreener.com,HongKong
-DOMAIN-SUFFIX,hidex.ai,HongKong
-DOMAIN-SUFFIX,app.insightx.network,HongKong
-DOMAIN-SUFFIX,clubsim.com,HongKong
-DOMAIN-SUFFIX,hyperliquid.xyz,HongKong
+HOST-SUFFIX,tradingview.com,HongKong
+HOST-SUFFIX,app-measurement.com,HongKong
+HOST-SUFFIX,walletconnect.com,HongKong
+HOST-SUFFIX,gmgn.ai,HongKong
+HOST-SUFFIX,axiom.trade,HongKong
+HOST-SUFFIX,ave.ai,HongKong
+HOST-SUFFIX,aicoin.com,HongKong
+HOST-SUFFIX,dexscreener.com,HongKong
+HOST-SUFFIX,hidex.ai,HongKong
+HOST-SUFFIX,app.insightx.network,HongKong
+HOST-SUFFIX,clubsim.com,HongKong
+HOST-SUFFIX,hyperliquid.xyz,HongKong
