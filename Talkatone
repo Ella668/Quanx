@@ -5,9 +5,24 @@
 
 
 # 走代理的规则
-HOST-SUFFIX,tktn.at,Talkatone
-HOST-SUFFIX,tktn.be,Talkatone
+HOST-SUFFIX,mobilefuse.com
+HOST-SUFFIX,inmobi.com
+HOST-SUFFIX,crashlytics.com
+HOST-SUFFIX,talkatone.com
+HOST-SUFFIX,kochava.com
+HOST-SUFFIX,tktn.be
+HOST-SUFFIX,cohere.com
+HOST-SUFFIX,ip-api.com
+HOST-SUFFIX,agkn.com
+HOST-SUFFIX,tktn.at
+
 # 语音留言地址，一般需要代理
 HOST-SUFFIX,vm.talkatone.com,Talkatone
 # 贴图服务
 HOST-SUFFIX,tenor.com,Talkatone
+
+
+IP-CIDR,50.117.27.0/24,Talkatone,no-resolve
+IP-CIDR,69.46.75.0/24,Talkatone,no-resolve
+IP-CIDR,205.164.56.0/24,Talkatone,no-resolve
+IP-CIDR,63.251.124.0/24,Talkatone,no-resolve
